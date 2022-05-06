@@ -29,7 +29,7 @@ const useStyles = makeStyles({
     }
   },
   menuIcons: {
-    display: 'flex'
+    display: 'flex',
   }
 })
 
